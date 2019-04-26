@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "GDataXMLNode"
+  s.name         = "FFGDataXMLNode"
   s.version      = "1.0.0"
   s.summary      = "Google提供的用于XML数据处理的老版本类集."
 
