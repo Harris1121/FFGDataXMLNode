@@ -1,0 +1,2 @@
+# GDataXMLNode
+Google提供的用于XML数据处理的老版本类集，迁移到Github上
