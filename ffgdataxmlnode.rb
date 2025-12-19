@@ -1,9 +1,7 @@
 class Ffgdataxmlnode < Formula
   desc "Google's GDataXMLNode library for XML data processing"
   homepage "https://github.com/Harris1121/FFGDataXMLNode"
-  url "https://github.com/Harris1121/FFGDataXMLNode.git",
-      branch: "master"
-  version "1.0.0"
+  head "https://github.com/Harris1121/FFGDataXMLNode.git", branch: "master"
   license "MIT"
 
   depends_on "libxml2"

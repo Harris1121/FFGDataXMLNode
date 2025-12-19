@@ -10,15 +10,17 @@ pod 'FFGDataXMLNode', :git => 'https://github.com/Harris1121/FFGDataXMLNode.git'
 ```
 
 ### Homebrew
-You can install FFGDataXMLNode using Homebrew:
+You can install FFGDataXMLNode using Homebrew from a local file:
 ```bash
-brew install ffgdataxmlnode.rb
+brew install --HEAD ./ffgdataxmlnode.rb
 ```
 
 Or install directly from the repository:
 ```bash
-brew install https://raw.githubusercontent.com/Harris1121/FFGDataXMLNode/master/ffgdataxmlnode.rb
+brew install --HEAD https://raw.githubusercontent.com/Harris1121/FFGDataXMLNode/master/ffgdataxmlnode.rb
 ```
+
+Note: This installs the latest development version from the master branch.
 
 ## Usage
 After installation via Homebrew, include the header in your Objective-C project:
